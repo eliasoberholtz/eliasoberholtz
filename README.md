@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-I'm learning Java and CPP. Some rust. Ask me about religion (Catholicism!). You can contact me on discord. Fun fact: I'm learning theology
+I'm learning Java and CPP. Ask me about religion (Catholicism!). You can contact me on discord. Fun fact: I'm learning theology
 
 ### My code
 
